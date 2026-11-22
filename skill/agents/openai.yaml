@@ -1,0 +1,4 @@
+interface:
+  display_name: "Invoice Anomaly Auditor"
+  short_description: "Flag duplicate, inconsistent and policy-breaking invoice records for human review without makin"
+  default_prompt: "Use @invoice-anomaly-auditor on my authorized input and return a validated result."
